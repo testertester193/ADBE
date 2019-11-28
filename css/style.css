@@ -11,8 +11,8 @@ nav .brand-logo {
   text-align: center
 }
 #my-intro{
-  position: relative;
-  top:100px;  
+  position: top;
+    
   background-color: #5c6bc0;
   opacity: 1;
   color: white;
@@ -21,8 +21,8 @@ nav .brand-logo {
 
 
 #my-navbar{
-    position: relative;
-    top:100px;  
+    position: top;
+    
 }
 
 .link-color{
